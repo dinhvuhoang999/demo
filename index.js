@@ -1,6 +1,6 @@
 const a ="hello";
 console.log(a);
 
-const b = 'Hi';
+const b = 'H';
 
 const c = 'dfgh';
